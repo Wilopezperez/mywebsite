@@ -6,7 +6,7 @@ body {
 
 /* === PARAGRAPH STYLE === */
 p {
-    color: #1a1a1a; /* 🎨 Bio and fun fact text color */
+    color: #ea0606cf; /* 🎨 Bio and fun fact text color */
     text-align: center; /* 💡 Like "text center" in Google Docs/Word */
 }
 
@@ -86,7 +86,7 @@ a:-webkit-any-link {
 
 /* === BACKGROUND IMAGE STYLE === */
 #background-img {
-    background-image: url("[PUT A URL HERE !!!]");
+    background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J4OWo3dGdnb2Q2d3dlNGFiaXN4dTNja2QwOGw5MzJ6ejExd2s1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XcXoHpoSzVHthTQbzJ/giphy.gif");
 }
 
 
